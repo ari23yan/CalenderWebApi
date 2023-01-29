@@ -14,7 +14,7 @@
 
   <ItemGroup>
     <Reference Include="AmirCalendar">
-      <HintPath>D:\AmirCalendar\AmirCalendar.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\AmirCalendar.dll</HintPath>
     </Reference>
   </ItemGroup>
 
